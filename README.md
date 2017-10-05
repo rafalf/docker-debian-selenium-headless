@@ -69,6 +69,7 @@ driver.quit()
 [debian library](https://docs.docker.com/samples/library/debian/)  
 [python-headless-chromedriver](https://github.com/rsanchezavalos/python-headless-chromedriver) _fail out of the box_  
 [firefox-headless](http://scraping.pro/use-headless-firefox-scraping-linux/)  
+[docker ignore error](https://stackoverflow.com/questions/30716937/dockerfile-build-possible-to-ignore-error)
 
 
 
